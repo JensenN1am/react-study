@@ -6,7 +6,7 @@
 
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './base/09-todolist'
+import App from './base/10-setSate异步同步'
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
 
