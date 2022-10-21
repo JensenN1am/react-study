@@ -6,7 +6,7 @@
 
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './base/11-props属性'
+import App from './base/13-非受控组件'
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
 
